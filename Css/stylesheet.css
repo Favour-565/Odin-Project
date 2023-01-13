@@ -291,6 +291,10 @@ h2{
     font-family: sans-serif;
     padding-bottom: 2rem;
 }
+.how_it_works_section{
+    margin-bottom: 40px;
+    
+}
 
 
 
@@ -343,5 +347,198 @@ h2{
     margin-right: 5rem;
     margin-bottom: 30px;
     justify-content: space-between;
+
+}
+.about{
+    color: black;
+}
+
+
+.programs{
+    display: flex;
+    justify-content: center;
+   background-color: whitesmoke;
+   margin-top: 100px;
+   margin-bottom: 100px;
+    
+
+}
+.first-row{
+    display: flex;
+    justify-content: center;
+   margin: auto;
+   background-color: whitesmoke;
+
+
+   
     
 }
+.second-row{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-color: whitesmoke;
+}
+.third-row{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-color: whitesmoke;
+}
+.Ruby{
+    box-shadow: 10px;
+    width: 250px;
+    border: 2px solid white ;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+    
+       
+}
+.Ruby a{
+    text-decoration: none;
+}
+.Databases{
+    box-shadow: 10px;
+    width: 250px;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+}
+.Databases a {
+    text-decoration: none;
+}
+.RB{
+    box-shadow: 10px;
+    width: 250px;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+}
+.RB a {
+    text-decoration: none;
+}
+.IHC{
+    
+        box-shadow: 10px;
+        width: 250px;
+        border: 2px solid white;
+        padding: 50px;
+        margin: 20px;
+        background-color: white;
+    
+}
+.IHC a {
+    text-decoration: none;
+}
+.JS{
+    box-shadow: 10px;
+    width: 250px;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+}
+.JS a {
+    text-decoration: none;
+}
+.AHC{
+    box-shadow: 10px;
+    width: 250px;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+}
+.AHC a {
+    text-decoration: none;
+}
+.Node{
+    box-shadow: 10px;
+    width: 250px;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+}
+.Node a {
+    text-decoration: none;
+}
+.GH{
+    box-shadow: 10px;
+    width: 250px;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+    
+    
+    
+}
+.GH a {
+    text-decoration: none;
+
+    
+    
+}
+h3{
+    color: rgb(89, 87, 87);
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.every{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.EX{
+    box-shadow: 0px;
+    width: 250px;
+    border: 2px solid white;
+    padding: 15px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    color: burlywood;
+    text-decoration: none;
+   margin-left: 15em;
+   background-color:rgb(211, 170, 116) ;
+   border-top-left-radius: 5%;
+   border-top-right-radius: 5%;
+   border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    margin-bottom: 30px;
+    
+}
+.EX:hover{
+    background-color: goldenrod;
+}
+
+
+
+
+.EXP{
+    color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    
+}
+.EXPL{
+    background-color:rgb(211, 170, 116) ;
+    color: aliceblue;
+    padding: none;
+    margin: none;
+    border: none;
+    
+
+}
+
+
+
+
+

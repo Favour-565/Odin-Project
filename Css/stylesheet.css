@@ -173,12 +173,12 @@ h2{
     color: #e5e7eb;
     border: 5%;
 }
-.frontimg{
+/* .frontimg{
     margin-right: 90px;
     margin-top: 5px;
     margin-bottom: 5rem;
     font-size: small;
-}
+} */
 .firsthd{
     margin-left: 30rem;
     font-size: xx-large;
@@ -295,6 +295,21 @@ h2{
     margin-bottom: 40px;
     
 }
+.pady {
+    border-radius: 50%;
+    /* width: 50%; */
+}
+.rob {
+    display: flex;
+    align-items: center;
+}
+.right {
+   text-align: start;
+}
+.first {
+    display: flex;
+}
+
 
 
 

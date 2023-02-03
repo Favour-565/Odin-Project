@@ -54,7 +54,8 @@
     box-sizing: border-box;
 
 }
-.odin Logo{
+
+.odin Logo {
     margin-left: 2em;
 }
 
@@ -310,7 +311,7 @@ h2 {
     font-family: 'inter';
     margin-top: 2.5em;
     margin-bottom: 10px;
-    color:#353535;
+    color: #353535;
 
 }
 
@@ -737,8 +738,8 @@ h3 {
     margin-right: -50px;
     background-color: #FDFDFD;
     margin: none;
-    
-    
+
+
     /* margin-left: -100px;*/
     /* margin-bottom:100px ; */
 }
@@ -777,21 +778,22 @@ h3 {
     margin-right: 25px;
     margin-top: 1.5em;
 }
-.RD{
+
+.RD {
     color: #A9792B;
-    
+
 }
 
-.CL{
+.CL {
     color: #A9792B;
 }
 
-.A{
+.A {
     color: #A9792B;
-    
+
 }
 
-.A p{
+.A p {
     margin-left: 5em;
 }
 
@@ -806,8 +808,8 @@ h3 {
 .oliv {
     margin-right: 25.5em;
     color: #A9792B;
-    
-    
+
+
 
 }
 
@@ -827,10 +829,10 @@ h3 {
     text-align: start;
     margin-right: 6em;
 
-    
+
 }
 
-.right p{
+.right p {
     margin-bottom: 4em;
     margin-top: 0.7em;
     font-size: 18px;
@@ -843,11 +845,11 @@ h3 {
 .rigt {
     text-align: start;
     margin-right: 4em;
-    
-    
+
+
 }
 
-.rigt p{
+.rigt p {
     margin-bottom: 4em;
     margin-top: 0.7em;
     font-size: 18px;
@@ -907,25 +909,27 @@ h3 {
     font-style: normal;
     text-decoration: underline;
 }
-footer{
+
+footer {
     margin-bottom: 2em;
     margin-left: 2em;
     justify-content: space-between;
-    
+
 }
-.foot{
+
+.foot {
     line-height: 24px;
 }
 
 
 
-.More{
+.More {
     margin-bottom: 5em;
 }
 
 
-.rab{
-     display: flex;
+.rab {
+    display: flex;
 }
 
 .firt {
@@ -934,24 +938,24 @@ footer{
 
 
 
-.Free{
-    
-    font-weight: 600; 
+.Free {
+
+    font-weight: 600;
     font-size: 26px;
     line-height: 32px;
     color: rgb(75, 85, 99);
-    
-    
- 
-    
-     display: flex;
+
+
+
+
+    display: flex;
     left: 18%;
     padding: 4px 8px;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    
+
     margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 0px;
@@ -962,40 +966,42 @@ footer{
 }
 
 
-.log{
+.log {
     margin-bottom: 1em;
 }
 
-.for{
-    margin-left: 16.7em; 
-    font-weight: 600; 
+.for {
+    margin-left: 16.7em;
+    font-weight: 600;
     font-size: 24px;
     line-height: 32px;
     color: rgb(75, 85, 99);
     top: 18em;
-    
-     
+
+
 }
 
-.form{
-  margin-left: 25em;
-  
-  grid-column: 2 / 4;
-  grid-row: 1 / 3;
-  margin-top: 1em;
-  
-}
-.email{
-  font-weight: 400; 
-  font-size: 20px;
-  line-height: 32px;
-  border-radius: 4px;
-  border: 1px solid whitesmoke;
-  padding: 5px;
-  
+.form {
+    margin-left: 25em;
+
+    grid-column: 2 / 4;
+    grid-row: 1 / 3;
+
+
 }
 
-.btn{
+.email {
+    font-weight: 400;
+    font-size: 16px;
+
+    border-radius: 4px;
+    border: 1px solid whitesmoke;
+
+
+
+}
+
+.btn {
     background-color: #16736d;
     color: aliceblue;
     border: none;
@@ -1003,84 +1009,129 @@ footer{
     font-size: 16px;
     font-weight: 400;
     font-style: normal;
-
-
-
-
-
-    position: relative;
-    top: 50%;
     border-radius: 7px;
     padding: 10px;
-    min-height: 15px;
-    min-width: 110px;
-    
 
+
+
+
+}
+
+.input-container {
+
+    width: 450px;
+    border: 1px solid #a9a9a9;
+    display: inline-block;
+    padding-right: 0.3em;
+    align-items: center;
+
+
+}
+
+.input-container input:focus,
+.input-container input:active {
+    outline: none;
+
+}
+
+.input-container input {
+    width: 70%;
+    border: none;
+
+
+}
+
+.input-container button {
+    float: right;
 }
 
 
 
-.git{
-    
+
+
+.git {
+
     margin-bottom: 4em;
     color: rgb(75, 85, 99);
 }
-.cord{
-    margin-left: 2em; 
-    margin-bottom: 4em;
-    color: rgb(75, 85, 99);
-}
-.book{
+
+.cord {
     margin-left: 2em;
     margin-bottom: 4em;
     color: rgb(75, 85, 99);
-
 }
-.witter{
+
+.book {
     margin-left: 2em;
     margin-bottom: 4em;
     color: rgb(75, 85, 99);
 
 }
 
+.witter {
+    margin-left: 2em;
+    margin-bottom: 4em;
+    color: rgb(75, 85, 99);
+
+}
 
 
-.hover{
-    
+
+.hover {
+
     color: rgb(75, 85, 99);
     line-height: 24px;
 }
 
-.text{
+.text {
     margin-left: 2em;
     color: rgb(75, 85, 99);
     line-height: 24px;
 }
 
-.term{
-    margin-left: 2em;
-    color: rgb(75, 85, 99);
-    line-height: 24px;
-}
-.bog{
-    margin-left: 2em;
-    color: rgb(75, 85, 99);
-    line-height: 24px;
-}
-.dark{
-    margin-left: 2em;
-    color: rgb(75, 85, 99);
-    line-height: 24px;
-}
-.grey{
+.term {
     margin-left: 2em;
     color: rgb(75, 85, 99);
     line-height: 24px;
 }
 
-.use{
+.bog {
     margin-left: 2em;
     color: rgb(75, 85, 99);
     line-height: 24px;
 }
 
+.dark {
+    margin-left: 2em;
+    color: rgb(75, 85, 99);
+    line-height: 24px;
+}
+
+.grey {
+    margin-left: 2em;
+    color: rgb(75, 85, 99);
+    line-height: 24px;
+}
+
+.use {
+    margin-left: 2em;
+    color: rgb(75, 85, 99);
+    line-height: 24px;
+}
+
+.love {
+    width: 200px;
+    height: 100px;
+    padding: auto;
+    margin: 20px auto;
+    transform: rotate3d(50px);
+    background-color: greenyellow;
+}
+
+.face {
+    margin-left: 70px;
+}
+
+.you {
+    margin-left: 70px;
+}

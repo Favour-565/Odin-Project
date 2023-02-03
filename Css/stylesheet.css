@@ -1011,19 +1011,22 @@ footer {
     font-style: normal;
     border-radius: 7px;
     padding: 10px;
+}
 
-
-
-
+.btn:hover{
+    background-color: #11615c;
 }
 
 .input-container {
 
     width: 450px;
+    height: 40px;
     border: 1px solid #a9a9a9;
-    display: inline-block;
+    display: block;
     padding-right: 0.3em;
+    padding-left: 0.3em;
     align-items: center;
+    vertical-align: bottom;
 
 
 }
